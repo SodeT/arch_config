@@ -102,6 +102,7 @@ source $ZSH/oh-my-zsh.sh
 
 
 alias la='ls -A'
+alias vim='nvim'
 
 export LANG=en_US.UTF-8
 
