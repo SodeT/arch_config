@@ -101,8 +101,9 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 
-alias la='ls -A'
-alias vim='nvim'
+alias la='ls -Ash'
+alias vim='nvim -c Neotree'
+alias nvim='nvim -c Neotree'
 
 export LANG=en_US.UTF-8
 
