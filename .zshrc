@@ -102,8 +102,8 @@ source $ZSH/oh-my-zsh.sh
 
 
 alias la='ls -Ash'
-alias vim='nvim -c Neotree'
-alias nvim='nvim -c Neotree'
+alias vim='nvim'
+alias nvim='nvim'
 
 export LANG=en_US.UTF-8
 
